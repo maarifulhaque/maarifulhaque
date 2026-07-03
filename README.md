@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Maarif Ul Haque
 
-<!--
-**maarifulhaque/maarifulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Developer at **[CoEdify](https://coedify.com)** building production backend systems and AI-powered applications with Java, Spring Boot, and Go.
 
-Here are some ideas to get you started:
+I work on the engineering layer behind AI products: service architecture, APIs, data models, LLM-backed workflows, background processing, multi-tenant platforms, and production reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+- **[DevSko](https://devsko.com)** - AI skill assessment and hiring platform covering assessment orchestration, rubric-based evaluation, scoring pipelines, reporting, proctoring, subscriptions, and credit-based billing.
+- **AI Sales Assistant & Analytics Platform** - Multi-tenant Spring Boot services for sales workflows, dashboard APIs, tenant-aware routing, secure service integrations, and RAG-based assistant architecture.
+- **Trading & Payment Systems** - Backend workflows for order placement, portfolios, market data, payment middleware, webhook processing, idempotency, and production incident resolution.
+
+## Technologies
+
+**Java | Spring Boot | Go | Go Fiber | PostgreSQL | SQL Server | Redis | REST APIs | Microservices | Docker | GCP | Azure |**
+
+## Engineering Interests
+
+Backend architecture | Distributed systems | Production reliability | LLM orchestration | RAG | AI agent workflows
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/maarif-ul-haque-75b462189/)
